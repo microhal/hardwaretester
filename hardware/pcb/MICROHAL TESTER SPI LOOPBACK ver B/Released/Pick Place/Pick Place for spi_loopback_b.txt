@@ -1,0 +1,8 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+U2         SOT23127P600-8N       1663mil       4759mil       1663mil       4759mil   1637.409mil   4710.772mil  T         90.00 NC7SZ125P5X    
+U1         SOP8              1676.527mil    4543.15mil       1647mil       4490mil       1647mil       4490mil  T         90.00 ON Semiconductor NC7SZ74K8X
+J1         PCB-45ncoppm4oopozvqifsq-1       1125mil       4585mil       1125mil       4585mil       1125mil       4885mil  T        270.00 uHAL_connector_reduced
+C1         CAPC1608X90X35NL15T15       1591mil   4589.527mil       1591mil   4589.528mil       1591mil       4560mil  T         90.00 Kemet C0603C104K4RAC7013
+C2         CAPC1608X90X35NL15T15       1567mil       4779mil       1567mil       4779mil       1567mil   4749.472mil  T         90.00 Kemet C0603C104K4RAC7013
+

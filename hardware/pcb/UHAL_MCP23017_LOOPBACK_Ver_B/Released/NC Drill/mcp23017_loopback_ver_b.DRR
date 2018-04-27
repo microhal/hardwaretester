@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: mcp23017_loopback_ver_b.CMPcbDoc   23.04.2018  20:48:17
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : mcp23017_loopback_ver_b.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          15               1.77 Inch (45.06 mm)
+T2        40mil (1.016mm)          Round          16               1.90 Inch (48.26 mm)
+---------------------------------------------------------------------------
+Totals                                            31               3.67 Inch (93.32 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

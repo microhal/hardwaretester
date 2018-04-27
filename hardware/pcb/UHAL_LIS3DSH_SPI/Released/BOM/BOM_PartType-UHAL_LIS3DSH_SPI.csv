@@ -1,0 +1,7 @@
+Capacitance,Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"100nF","Murata GCM188R71H104KA57D","CAP CER 0.1UF 50V 10% X7R 0603","C1, C2","CAPC1608X90X35ML10T15","CMP-119667-3","2"
+"10uF","Murata GCM188R71H104KA57D","CAP CER 0.1UF 50V 10% X7R 0603","C3","CAPC1608X90X35ML10T15","CMP-119667-3","1"
+"","uHAL_connector_reduced","connector for uHAL with reduced pin number","J1","PCB-45ncoppm4oopozvqifsq-1","CMP-2q23h2cwhjlfm8s6r7i8-1","1"
+"","22R","RCA Series 0603 0.1 W 0 O Jumper Surface Mount Thick Film Chip Resistor","R1, R2, R3, R4","RESC1608X05N","CMP-31acf99032f6ee6b-1","4"
+"","STMicroelectronics LIS3DSHTR","MEMS digital output motion sensor: ultra low-power high performance 3-axes nano accelerometer","U1","STM-LGA-16_M","CMP-40c388997c2c9f04-1","1"

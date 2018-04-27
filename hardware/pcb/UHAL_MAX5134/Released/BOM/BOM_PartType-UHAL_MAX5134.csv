@@ -1,0 +1,11 @@
+Capacitance,Comment,Description,Designator,Footprint,LibRef,Quantity,Resistance
+
+"","Cap","Cap Ceramic 10uF 10V X7R 10% Pad SMD 0805 Soft Termination 125C Automotive T/R","C1, C3","PCB-pgfgxap6j3hfn0qwxn05-1","CMP-0c34c7653e6ad3f3-1","2",""
+"","Cap","CL10 Series 0.1 uF 16 V ±10% Tolerance X7R SMT Multilayer Ceramic Capacitor","C2, C4","PCB-ul7goghxin8pri3xfob7-1","CMP-4ca9852e0e1c936e-3","2",""
+"47pF","Kemet C0603C470J3GACTU","Multilayer Ceramic Capacitors MLCC - SMD/SMT 25volts 47pF C0G 5%","C5","CAPC1608X87X35NL15T15","CMP-148602-2","1",""
+"","MICROHAL STANDARD EDGE CONNECTOR","microhal standard edge connector with 17 pins","J1","PCB-n61ghpg3sznbl2uw6fwj-1","CMP-6a3uyflm72uf0am1b36s-2","1",""
+"","2p header","Board-To-Board Connector, Vertical, WR-PHD Series, Through Hole, Header, 2, 2.54 mm","OUT0, OUT3, REF","PCB-b2cwpysm67pz35t2479s-1","CMP-748fbcb73d6bab48-6","3",""
+"","Amphenol Connex 132136RP","Connector; RF; SMA Right Angle PCB Jack Through Hole 50 Ohm Reverse Polarized","OUT1, OUT2","PCB-qsvob2veabkktiupk4ti-1","CMP-acee67bfc04a7329-6","2",""
+"","Vishay Dale CRCW060322R0JNEA","RES SMD 22 OHM 5% 1/10W 0603","R1, R2, R3","RESC1609X50X30ML10T20","CMP-1856016-2","3","22R"
+"","Res1","Resistor; Thick Film; 0 Ohms; 0.1 W; 0 Ohms Jumper; SMT; 0603; TCR 0 ppm/DegC; TR","R4, R5, R6, R7, R8","RESC1609X50X30ML10T20","CMP-1855984-13","5",""
+"","MAX5134AGUE+","DAC 4-CH Resistor-String 16-bit 16-Pin TSSOP","U1","PCB-2k17843fb1qbvpte9n1l-1","CMP-b72d7cb8b58168ea-4","1",""

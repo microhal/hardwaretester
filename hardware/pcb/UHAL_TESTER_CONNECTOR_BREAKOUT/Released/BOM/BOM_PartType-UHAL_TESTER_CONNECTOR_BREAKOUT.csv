@@ -1,0 +1,5 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"FCI 95278-101A16LF","Wire-To-Board Connector, Ampmodu Mod Ii Series, Through Hole, Header, 16, 2.54 Mm","J1, J2","PCB-4a2gbb28wmnqwy5o1l64-1","CMP-55f09e7f72328a37-7","2"
+"87715-9106","Conn PCI Express Card SKT 64 POS 2mm Solder ST Thru-Hole Tray","J3","PCB-jv25kdr3228vq428mjlt-1","CMP-e234296465633df3-2","1"
+"RES-2","Resistor; Thick Film; 10 Kilohms; 0.1 W; 1%; SMT; 0603; TCR 37 ppm/DegC; Tape and Reel","R1","PCB-a05eeaq2i5acw4uh0h7x-1","CMP-4716668-21","1"

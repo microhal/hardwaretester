@@ -1,0 +1,9 @@
+Capacitance,Comment,Description,Designator,Footprint,LibRef,Quantity,Resistance
+
+"100nF","Murata GCM188R71H104KA57D","CAP CER 0.1UF 50V 10% X7R 0603","C1","CAPC1608X90X35ML10T15","CMP-119667-3","1",""
+"","MICROHAL STANDARD EDGE CONNECTOR","microhal standard edge connector with 17 pins","J1","PCB-n61ghpg3sznbl2uw6fwj-1","CMP-6a3uyflm72uf0am1b36s-2","1",""
+"","SYM-429f8bf83f2c9d58-1","Conn Unshrouded Header HDR 16 POS 2.54mm Solder ST Thru-Hole Poly Bag","J2","HEADER8X2","CMP-429f8bf83f2c9d58-5","1",""
+"","0 ?","RCA Series 0603 0.1 W 0 O Jumper Surface Mount Thick Film Chip Resistor","R1, R2","RESC1608X05N","CMP-31acf99032f6ee6b-1","2",""
+"","CRCW06034K70FKEAHP","Surface Mount Chip Resistor, Thick Film, AEC-Q200 CRCW Series, 4.7 kohm, 250 mW, 1%, 75 V","R3, R4","PCB-cmzy4aezi5zhn2bew7lt-1","CMP-40e08b60e91c9f27-1","2","4.7 k?"
+"","270R","RCA Series 0603 0.1 W 0 O Jumper Surface Mount Thick Film Chip Resistor","R5, R6, R7","RESC1608X05N","CMP-31acf99032f6ee6b-1","3",""
+"","MCP23017-E/SS","16-Bit I/O Expander with Serial Interface, 28-Pin SSOP, Extended Temperature","U1","SSOP-SS28_N","CMP-1159044-3","1",""

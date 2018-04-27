@@ -1,0 +1,12 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+J1         PCB-45ncoppm4oopozvqifsq-1       1125mil       4550mil       1125mil       4550mil       1125mil       4850mil  T        270.00 uHAL_connector_reduced
+R4         RESC1608X05N          1450mil       4550mil       1450mil       4550mil   1424.409mil       4550mil  T          0.00 22R            
+R3         RESC1608X05N          1570mil       4345mil       1570mil       4345mil   1544.409mil       4345mil  T          0.00 22R            
+R2         RESC1608X05N          1570mil       4405mil       1570mil       4405mil   1544.409mil       4405mil  T          0.00 22R            
+R1         RESC1608X05N          1450mil       4490mil       1450mil       4490mil   1424.409mil       4490mil  T          0.00 22R            
+C1         CAPC1608X90X35ML10T15    1634.37mil       4840mil    1634.37mil       4840mil   1605.827mil       4840mil  T          0.00 Murata GCM188R71H104KA57D
+C2         CAPC1608X90X35ML10T15    1634.37mil       4785mil    1634.37mil       4785mil   1605.827mil       4785mil  T          0.00 Murata GCM188R71H104KA57D
+C3         CAPC1608X90X35ML10T15   1693.161mil       4490mil   1693.161mil       4490mil   1664.618mil       4490mil  T        360.00 Murata GCM188R71H104KA57D
+U1         PCB-e1nx98ugchmxbk2nqwbe-1    1644.37mil       4640mil    1644.37mil       4640mil   1566.614mil   4678.386mil  T          0.00 Asahi Kasei AK8975BP-L
+

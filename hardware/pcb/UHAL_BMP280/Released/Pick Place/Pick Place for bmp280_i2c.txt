@@ -1,0 +1,13 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C1         CAPC1608X90X35ML10T15       1540mil       3070mil       1540mil       3070mil   1568.543mil       3070mil  T        180.00 Murata GCM188R71H104KA57D
+C2         CAPC1608X90X35ML10T15       1680mil       3070mil       1680mil       3070mil   1651.457mil       3070mil  T          0.00 Murata GCM188R71H104KA57D
+C3         CAPC1608X90X35ML10T15       1680mil       3125mil       1680mil       3125mil   1651.457mil       3125mil  T          0.00 Murata GCM188R71H104KA57D
+J1         PCB-45ncoppm4oopozvqifsq-1       1125mil       2850mil       1125mil       2850mil       1125mil       3150mil  T        270.00 uHAL_connector_reduced
+R1         RESC1608X05N          1640mil       2755mil       1640mil       2755mil   1614.409mil       2755mil  T          0.00 4.7k           
+R2         RESC1608X05N          1640mil       2695mil       1640mil       2695mil   1614.409mil       2695mil  T          0.00 4.7k           
+R3         RESC1608X05N          1640mil       2635mil       1640mil       2635mil   1614.409mil       2635mil  T        360.00 10k            
+R4         RESC1608X05N          1535mil       2635mil       1535mil       2635mil   1509.409mil       2635mil  T        360.00 10k            
+R5         RESC1608X05N          1640mil       2815mil       1640mil       2815mil   1614.409mil       2815mil  T          0.00 10k            
+U1         PCB-7ktgzhb423iat7xn8psi-1       1610mil       2975mil       1610mil       2975mil   1648.386mil   2946.457mil  T        270.00 Bosch BMP280   
+

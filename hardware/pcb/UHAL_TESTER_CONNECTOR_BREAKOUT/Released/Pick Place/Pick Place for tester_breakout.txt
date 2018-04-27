@@ -1,0 +1,7 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+J3         PCB-jv25kdr3228vq428mjlt-1   2170.003mil   3969.961mil    2042.05mil       4655mil   2219.215mil       4655mil  T        270.00 87715-9106     
+R1         PCB-a05eeaq2i5acw4uh0h7x-1       1720mil   4174.999mil       1720mil       4175mil   1751.496mil       4175mil  T        180.00 RES-2          
+J2         PCB-4a2gbb28wmnqwy5o1l64-1       1525mil       4025mil       1525mil       4025mil       1525mil       4775mil  T          0.00 FCI 95278-101A16LF
+J1         PCB-4a2gbb28wmnqwy5o1l64-1       2815mil       4025mil       2815mil       4025mil       2815mil       4775mil  T          0.00 FCI 95278-101A16LF
+

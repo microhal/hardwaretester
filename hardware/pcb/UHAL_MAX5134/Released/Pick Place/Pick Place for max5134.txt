@@ -1,0 +1,23 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C5         CAPC1608X87X35NL15T15       1965mil       4740mil       1965mil       4740mil       1965mil   4713.425mil  T         90.00 Kemet C0603C470J3GACTU
+C1         PCB-pgfgxap6j3hfn0qwxn05-1       1485mil       4525mil       1485mil       4525mil       1485mil   4558.465mil  T        270.00 Cap            
+C2         PCB-ul7goghxin8pri3xfob7-1       1555mil       4530mil       1555mil       4530mil       1555mil   4559.528mil  T        270.00 Cap            
+C3         PCB-pgfgxap6j3hfn0qwxn05-1       1485mil       4670mil       1485mil       4670mil       1485mil   4703.465mil  T        270.00 Cap            
+C4         PCB-ul7goghxin8pri3xfob7-1       1555mil       4665mil       1555mil       4665mil       1555mil   4694.528mil  T        270.00 Cap            
+J1         PCB-n61ghpg3sznbl2uw6fwj-1       1100mil       4475mil       1100mil       4475mil       1100mil       4875mil  T        270.00 MICROHAL STANDARD EDGE CONNECTOR
+OUT0       PCB-b2cwpysm67pz35t2479s-1       1380mil       4310mil       1380mil       4360mil       1380mil       4360mil  T        270.00 2p header      
+OUT1       PCB-qsvob2veabkktiupk4ti-1       2225mil       4745mil       2225mil       4745mil       2225mil       4745mil  T        360.00 Amphenol Connex 132136RP
+OUT2       PCB-qsvob2veabkktiupk4ti-1       2225mil       4350mil       2225mil       4350mil       2225mil       4350mil  T        360.00 Amphenol Connex 132136RP
+OUT3       PCB-b2cwpysm67pz35t2479s-1       1600mil       4310mil       1600mil       4360mil       1600mil       4360mil  T        270.00 2p header      
+REF        PCB-b2cwpysm67pz35t2479s-1       1790mil       4745mil       1840mil       4745mil       1840mil       4745mil  T        180.00 2p header      
+R1         RESC1609X50X30ML10T20   1800.638mil   4284.362mil   1800.638mil   4284.362mil   1800.638mil   4257.788mil  T         90.00 Vishay Dale CRCW060322R0JNEA
+R2         RESC1609X50X30ML10T20   1745.638mil   4284.362mil   1745.638mil   4284.362mil   1745.638mil   4257.788mil  T         90.00 Vishay Dale CRCW060322R0JNEA
+R3         RESC1609X50X30ML10T20   1690.638mil   4284.362mil   1690.638mil   4284.362mil   1690.638mil   4257.788mil  T         90.00 Vishay Dale CRCW060322R0JNEA
+U1         PCB-2k17843fb1qbvpte9n1l-1       1790mil       4560mil       1790mil       4560mil   1675.827mil   4649.567mil  T        360.00 MAX5134AGUE+   
+R4         RESC1609X50X30ML10T20       1790mil       4840mil       1790mil       4840mil   1763.425mil       4840mil  T          0.00 Res1           
+R5         RESC1609X50X30ML10T20       1965mil       4285mil       1965mil       4285mil       1965mil   4311.575mil  T        270.00 Res1           
+R7         RESC1609X50X30ML10T20       1855mil       4285mil       1855mil       4285mil       1855mil   4311.575mil  T        270.00 Res1           
+R6         RESC1609X50X30ML10T20       2025mil       4285mil       2025mil       4285mil       2025mil   4311.575mil  T        270.00 Res1           
+R8         RESC1609X50X30ML10T20       1910mil       4285mil       1910mil       4285mil       1910mil   4311.575mil  T        270.00 Res1           
+

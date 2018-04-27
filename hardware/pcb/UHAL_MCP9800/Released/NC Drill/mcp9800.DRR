@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: mcp9800.CMPcbDoc   23.04.2018  21:47:40
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : mcp9800.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          4                0.51 Inch (12.83 mm)
+---------------------------------------------------------------------------
+Totals                                            4                0.51 Inch (12.83 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

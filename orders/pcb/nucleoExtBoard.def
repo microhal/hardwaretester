@@ -1,0 +1,28 @@
+Row {         
+  SPI_LOOPBACK_TESTER Rotate
+  AK8975_I2C Rotate
+  AK8975_SPI Rotate
+  BMP280_I2C Rotate
+  BMP280_SPI Rotate 
+}  
+
+Row {  
+  LIS2DH_I2C Rotate
+  LIS2DH_SPI Rotate
+  LIS3DSH_I2C Rotate
+  LIS3DSH_SPI Rotate
+  MPL115A1 Rotate
+ 
+}  
+
+Row {
+  DS18B20
+  HX711
+  MAX5134
+}
+
+Row {
+  COUNTER  
+  SDCARD 
+}
+

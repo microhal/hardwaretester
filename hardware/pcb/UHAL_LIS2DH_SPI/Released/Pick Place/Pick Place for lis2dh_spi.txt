@@ -1,0 +1,12 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R4         RESC1608X05N          1625mil       4665mil       1625mil       4665mil   1650.591mil       4665mil  T        180.00 22R            
+R3         RESC1608X05N          1625mil       4725mil       1625mil       4725mil   1650.591mil       4725mil  T        180.00 22R            
+R2         RESC1608X05N          1625mil       4785mil       1625mil       4785mil   1650.591mil       4785mil  T        180.00 22R            
+R1         RESC1608X05N          1625mil       4845mil       1625mil       4845mil   1650.591mil       4845mil  T        180.00 22R            
+J1         PCB-45ncoppm4oopozvqifsq-1       1125mil       4550mil       1125mil       4550mil       1125mil       4850mil  T        270.00 uHAL_connector_reduced
+C1         CAPC1608X90X35ML10T15       1610mil       4515mil       1610mil       4515mil       1610mil   4543.543mil  T        270.00 Murata GCM188R71H104KA57D
+C2         CAPC1608X90X35ML10T15       1610mil       4375mil       1610mil       4375mil       1610mil   4403.543mil  T        270.00 Murata GCM188R71H104KA57D
+C3         CAPC1608X90X35ML10T15       1700mil       4375mil       1700mil       4375mil       1700mil   4403.543mil  T        270.00 Murata GCM188R71H104KA57D
+U1         LGA-14_N              1710mil       4560mil       1710mil       4560mil   1730.669mil   4591.496mil  T        270.00 LIS2DHTR       
+

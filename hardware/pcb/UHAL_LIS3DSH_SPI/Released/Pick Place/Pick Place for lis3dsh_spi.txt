@@ -1,0 +1,12 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+J1         PCB-45ncoppm4oopozvqifsq-1       1125mil       4475mil       1125mil       4475mil       1125mil       4775mil  T        270.00 uHAL_connector_reduced
+C1         CAPC1608X90X35ML10T15       1505mil       4505mil       1505mil       4505mil       1505mil   4533.543mil  T        270.00 Murata GCM188R71H104KA57D
+C2         CAPC1608X90X35ML10T15       1700mil       4650mil       1700mil       4650mil   1671.457mil       4650mil  T          0.00 Murata GCM188R71H104KA57D
+C3         CAPC1608X90X35ML10T15       1700mil       4710mil       1700mil       4710mil   1671.457mil       4710mil  T        360.00 Murata GCM188R71H104KA57D
+R1         RESC1608X05N          1495mil       4390mil       1495mil       4390mil   1520.591mil       4390mil  T        180.00 22R            
+R2         RESC1608X05N          1495mil       4330mil       1495mil       4330mil   1520.591mil       4330mil  T        180.00 22R            
+R3         RESC1608X05N          1620mil       4325mil       1620mil       4325mil   1645.591mil       4325mil  T        180.00 22R            
+R4         RESC1608X05N          1620mil       4265mil       1620mil       4265mil   1645.591mil       4265mil  T        180.00 22R            
+U1         STM-LGA-16_M          1655mil       4495mil       1655mil       4495mil   1592.008mil    4534.37mil  T          0.00 STMicroelectronics LIS3DSHTR
+

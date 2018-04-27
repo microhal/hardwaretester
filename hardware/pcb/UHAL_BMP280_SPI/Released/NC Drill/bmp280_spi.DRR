@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: bmp280_spi.CMPcbDoc   23.04.2018  21:28:21
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : bmp280_spi.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          8                1.46 Inch (37.11 mm)
+---------------------------------------------------------------------------
+Totals                                            8                1.46 Inch (37.11 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

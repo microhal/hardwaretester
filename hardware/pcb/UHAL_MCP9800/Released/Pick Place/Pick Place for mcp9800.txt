@@ -1,0 +1,9 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C1         CAPC1608X90X35ML10T15       1480mil       4790mil       1480mil       4790mil       1480mil   4818.543mil  T        270.00 Murata GCM188R71H104KA57D
+U1         SOT-23-OT5_L      1613.278mil   4720.457mil   1613.278mil   4720.457mil   1566.034mil   4757.859mil  T        360.00 MCP9800A0T-M/OT
+R2         PCB-cmzy4aezi5zhn2bew7lt-1       1605mil       4840mil       1605mil       4840mil   1631.575mil       4840mil  T        180.00 CRCW06034K70FKEAHP
+R1         PCB-cmzy4aezi5zhn2bew7lt-1       1605mil       4575mil       1605mil       4575mil   1631.575mil       4575mil  T        180.00 CRCW06034K70FKEAHP
+J1         PCB-45ncoppm4oopozvqifsq-1       1125mil       4585mil       1125mil       4585mil       1125mil       4885mil  T        270.00 uHAL_connector_reduced
+R3         PCB-cmzy4aezi5zhn2bew7lt-1       1490mil       4575mil       1490mil       4575mil   1516.575mil       4575mil  T        180.00 CRCW06034K70FKEAHP
+

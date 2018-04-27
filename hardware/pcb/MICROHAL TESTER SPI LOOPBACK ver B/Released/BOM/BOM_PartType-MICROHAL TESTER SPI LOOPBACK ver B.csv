@@ -1,0 +1,6 @@
+Capacitance,Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"100nF","Kemet C0603C104K4RAC7013","CAP CER 0.1UF 16V 10% X7R 0603","C1, C2","CAPC1608X90X35NL15T15","CMP-4113029-2","2"
+"","uHAL_connector_reduced","connector for uHAL with reduced pin number","J1","PCB-45ncoppm4oopozvqifsq-1","CMP-2q23h2cwhjlfm8s6r7i8-1","1"
+"","ON Semiconductor NC7SZ74K8X","NC7SZ74 Series 5.5 V TinyLogic UHS D-Type Flip-Flop with Preset and Clear - US8","U1","SOP8","CMP-a3886f844fd47c4f-2","1"
+"","NC7SZ125P5X","NC7SZ125 Series 5.5 V TinyLogic® UHS Single Buffer w/ 3-State Output - SC-70-5","U2","SOT23127P600-8N","CMP-f54f3c43aefd2a88-2","1"

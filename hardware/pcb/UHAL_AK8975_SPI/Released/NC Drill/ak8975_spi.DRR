@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ak8975_spi.CMPcbDoc   23.04.2018  21:01:53
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ak8975_spi.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          9                0.31 Inch (8.00 mm)
+T2        12mil (0.3048mm)         Round          9                1.25 Inch (31.80 mm)
+---------------------------------------------------------------------------
+Totals                                            18               1.57 Inch (39.80 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

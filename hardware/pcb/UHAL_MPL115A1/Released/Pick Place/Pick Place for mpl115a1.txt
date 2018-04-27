@@ -1,0 +1,14 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C3         CAPC1608X90X35ML10T15       1485mil       4860mil       1485mil       4860mil   1456.457mil       4860mil  T          0.00 Murata GCM188R71H104KA57D
+R6         RESC1608X05N          1515mil       4590mil       1515mil       4590mil   1489.409mil       4590mil  T        360.00 0R             
+R5         RESC1608X05N          1515mil       4525mil       1515mil       4525mil   1540.591mil       4525mil  T        180.00 0R             
+R4         RESC1608X05N          1515mil       4265mil       1515mil       4265mil   1489.409mil       4265mil  T          0.00 22R            
+R3         RESC1608X05N          1515mil       4330mil       1515mil       4330mil   1489.409mil       4330mil  T          0.00 22R            
+R2         RESC1608X05N          1515mil       4395mil       1515mil       4395mil   1489.409mil       4395mil  T          0.00 22R            
+R1         RESC1608X05N          1515mil       4460mil       1515mil       4460mil   1489.409mil       4460mil  T        360.00 22R            
+C1         CAPC1608X90X35ML10T15       1485mil       4800mil       1485mil       4800mil   1456.457mil       4800mil  T        360.00 Murata GCM188R71H104KA57D
+C2         CAPC1608X90X35ML10T15       1485mil       4735mil       1490mil       4730mil   1456.457mil       4735mil  T        180.00 Murata GCM188R71H104KA57D
+J1         PCB-45ncoppm4oopozvqifsq-1       1125mil       4585mil       1125mil       4585mil       1125mil       4885mil  T        270.00 uHAL_connector_reduced
+U1         FRES-2015-02-A-8_V       1655mil       4715mil       1655mil       4715mil   1613.169mil   4788.819mil  T        360.00 MPL115A1       
+

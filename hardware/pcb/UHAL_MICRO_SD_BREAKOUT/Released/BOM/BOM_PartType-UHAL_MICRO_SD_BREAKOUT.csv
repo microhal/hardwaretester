@@ -1,0 +1,8 @@
+Capacitance,Comment,Description,Designator,Footprint,LibRef,Quantity,Resistance
+
+"100nF","Murata GCM188R71H104KA57D","CAP CER 0.1UF 50V 10% X7R 0603","C1","CAPC1608X90X35ML10T15","CMP-119667-3","1",""
+"2.2uF","Kemet C0805C225K4RACAUTO","CAPACITOR, 0805, X7R, 16V, 2.2UF","C2","CAPC2013X140X50ML20T25","CMP-3913345-2","1",""
+"","MICROHAL STANDARD EDGE CONNECTOR","microhal standard edge connector with 17 pins","J1","PCB-n61ghpg3sznbl2uw6fwj-1","CMP-6a3uyflm72uf0am1b36s-2","1",""
+"","Molex 504077-1891","Conn Micro SD Card SKT 8 POS 1.1mm Solder RA SMD Embossed T/R 0.5A/Contact","J2","PCB-4vacospa3sytmw4kcnv2-1","CMP-95805dba04df4a47-7","1",""
+"","Res1","Resistor; Thick Film; Res 10 Kilohms; Pwr-Rtg 0.1 W; Tol 1%; SMT; 0603","R1, R2, R3, R4, R5, R6","PCB-4hicoez4nmrdgyuwelf4-1","CMP-51de9888c13e8e19-9","6","10k"
+"","Vishay Dale CRCW060322R0JNEA","RES SMD 22 OHM 5% 1/10W 0603","R7, R8, R9, R10","RESC1609X50X30ML10T20","CMP-1856016-2","4","22R"

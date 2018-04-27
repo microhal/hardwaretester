@@ -1,0 +1,11 @@
+Comment,Quantity,Designator,Footprint,Description,LibRef,Capacitance
+
+"1u/10V","1","C1","CAPC2013X140X50ML20T25","CAP CER 1UF 10V 10% X7R 0805","CMP-126530-2","1e-06 F"
+"SYM-52d299a8d8748d15-1","1","J1","PCB-vkgeqjtjqx6hhmcxuagx-1","AMPMODU 3 Position 2.54 mm Single Row Through-Hole Straight Breakaway Header","CMP-740dbf71fd8babca-12",""
+"MICROHAL STANDARD EDGE CONNECTOR","1","J2","PCB-n61ghpg3sznbl2uw6fwj-1","microhal standard edge connector with 17 pins","CMP-6a3uyflm72uf0am1b36s-2",""
+"BSS84LT1G","1","Q1","ONSC-SOT-23-3-318-08","MOSFET","CMP-10937362-2",""
+"BSS138LT3G","2","Q2, Q3","ONSC-SOT-23-3-318-08_V","Power MOSFET, 200 mA, 50 V, N-Channel, 3-Pin SOT-23, Pb-Free, Tape and Reel","CMP-14439175-2",""
+"100k","2","R1, R4","PCB-cmzy4aezi5zhn2bew7lt-1","Surface Mount Chip Resistor, Thick Film, AEC-Q200 CRCW Series, 4.7 kohm, 250 mW, 1%, 75 V","CMP-40e08b60e91c9f27-1",""
+"4k7","1","R2","PCB-cmzy4aezi5zhn2bew7lt-1","Surface Mount Chip Resistor, Thick Film, AEC-Q200 CRCW Series, 4.7 kohm, 250 mW, 1%, 75 V","CMP-40e08b60e91c9f27-1",""
+"1k","1","R3","PCB-cmzy4aezi5zhn2bew7lt-1","Surface Mount Chip Resistor, Thick Film, AEC-Q200 CRCW Series, 4.7 kohm, 250 mW, 1%, 75 V","CMP-40e08b60e91c9f27-1",""
+"DS18B20+PAR","1","U1","Q3+1","Programmable Resolution Digital Thermometer, 1-Wire Interface, ±0.5°C Accuracy, 3-Pin TO92, -40°C to +85°C, Pb-Free","CMP-978384-4",""

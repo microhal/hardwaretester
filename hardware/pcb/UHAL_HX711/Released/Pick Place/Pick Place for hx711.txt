@@ -1,0 +1,32 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R4         0603                  1335mil       2705mil       1335mil       2705mil   1305.472mil       2705mil  T          0.00                
+U4         CYP-SX16_L            1525mil       2730mil       1525mil       2730mil   1621.457mil       2555mil  T        180.00 HX711          
+R26        0603                  1530mil       3070mil       1530mil       3070mil   1559.528mil       3070mil  T        180.00                
+R25        0603                  1530mil       3020mil       1530mil       3020mil   1500.472mil       3020mil  T        360.00                
+R24        0603                  1760mil       3045mil       1760mil       3045mil   1730.472mil       3045mil  T        360.00                
+R23        0603                  1335mil       2855mil       1335mil       2855mil   1305.472mil       2855mil  T        360.00                
+R22        0603                  1530mil       2970mil       1530mil       2970mil   1500.472mil       2970mil  T        360.00                
+R21        0603                  1760mil       3095mil       1760mil       3095mil   1730.472mil       3095mil  T        360.00                
+R20        0603                  1335mil       2805mil       1335mil       2805mil   1305.472mil       2805mil  T        360.00                
+R19        0603                  1335mil       2755mil       1335mil       2755mil   1305.472mil       2755mil  T        360.00                
+R18        0603                  1705mil       2760mil       1705mil       2760mil       1705mil   2789.528mil  T        270.00                
+R17        0603                  1335mil       2655mil       1335mil       2655mil   1364.528mil       2655mil  T        180.00                
+R16        0603                  1335mil       2605mil       1335mil       2605mil   1305.472mil       2605mil  T        360.00                
+R15        0603                  1705mil       2665mil       1705mil       2665mil       1705mil   2694.528mil  T        270.00                
+R14        0603                  1235mil       2500mil       1235mil       2500mil       1235mil   2529.528mil  T        270.00                
+R3         0603                  1810mil       2920mil       1810mil       2920mil       1810mil   2890.472mil  T         90.00                
+R2         0603                  1810mil       2825mil       1810mil       2825mil       1810mil   2795.472mil  T         90.00                
+R1         0603                  1810mil       2730mil       1810mil       2730mil       1810mil   2700.472mil  T         90.00                
+Q1         SOT23-BEC             1935mil       2600mil       1935mil       2600mil   1897.299mil   2556.347mil  T          0.00 BC856B,215     
+J2         PCBComponent_1        1940mil       2905mil       1940mil       2905mil       1940mil       3055mil  T        270.00 Loadcell connector
+J1         PCB-n61ghpg3sznbl2uw6fwj-1       1100mil       2775mil       1100mil       2775mil       1100mil       3175mil  T        270.00 MICROHAL STANDARD EDGE CONNECTOR
+C28        PCB-121845-2          1680mil       3170mil       1680mil       3170mil   1624.882mil       3170mil  T        360.00 100nF          
+C27        CAPC3216X180X80NL20T30       1725mil       2915mil       1725mil       2915mil       1725mil   2866.772mil  T         90.00 Kemet T491A105M016AT
+C26        PCB-121845-2          1835mil       2440mil       1835mil       2440mil   1890.118mil       2440mil  T        180.00 Murata GRM31C5C1E104JA01L
+C25        CAPC2113X120X50LL20T30       1800mil       2570mil       1800mil       2570mil   1827.559mil       2570mil  T        180.00 AVX Interconnect / Elco TAJR106K006RNJ
+C24        PCB-19299713-1        1435mil       2470mil       1435mil       2470mil   1408.425mil       2470mil  T        360.00 0603N103J500   
+C23        PCB-19299713-1        1555mil       2470mil       1555mil       2470mil   1581.575mil       2470mil  T        180.00 0603N103J500   
+C22        CAPC2113X120X50LL20T30       1435mil       2400mil       1435mil       2400mil   1462.559mil       2400mil  T        180.00 AVX Interconnect / Elco TAJR106K006RNJ
+C21        CAPC2113X120X50LL20T30       1555mil       2400mil       1555mil       2400mil   1527.441mil       2400mil  T        360.00 AVX Interconnect / Elco TAJR106K006RNJ
+

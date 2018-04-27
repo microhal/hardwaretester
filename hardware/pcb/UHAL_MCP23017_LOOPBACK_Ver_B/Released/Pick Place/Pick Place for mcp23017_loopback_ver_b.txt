@@ -1,0 +1,14 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C1         CAPC1608X90X35ML10T15       1685mil       3295mil       1685mil       3295mil   1656.457mil       3295mil  T        360.00 Murata GCM188R71H104KA57D
+J2         HEADER8X2             1850mil       2960mil       1800mil       3310mil       1800mil       3310mil  T        360.00 SYM-429f8bf83f2c9d58-1
+J1         PCB-n61ghpg3sznbl2uw6fwj-1       1100mil       2925mil       1100mil       2925mil       1100mil       3325mil  T        270.00 MICROHAL STANDARD EDGE CONNECTOR
+R1         RESC1608X05N          1490mil       3275mil       1490mil       3275mil   1464.409mil       3275mil  T        360.00 0 ?            
+R2         RESC1608X05N          1365mil       3275mil       1365mil       3275mil   1339.409mil       3275mil  T        360.00 0 ?            
+R3         PCB-cmzy4aezi5zhn2bew7lt-1       1220mil       3270mil       1220mil       3270mil       1220mil   3296.575mil  T        270.00 CRCW06034K70FKEAHP
+R4         PCB-cmzy4aezi5zhn2bew7lt-1       1275mil       3270mil       1275mil       3270mil       1275mil   3296.575mil  T        270.00 CRCW06034K70FKEAHP
+U1         SSOP-SS28_N           1490mil       3025mil       1490mil       3025mil   1625.827mil   2858.661mil  T        180.00 MCP23017-E/SS  
+R5         RESC1608X05N          1320mil       2724mil       1320mil       2724mil       1320mil   2749.591mil  T        270.00 270R           
+R6         RESC1608X05N          1255mil       2724mil       1255mil       2724mil       1255mil   2749.591mil  T        270.00 270R           
+R7         RESC1608X05N          1460mil       2535mil       1460mil       2535mil   1434.409mil       2535mil  T        360.00 270R           
+

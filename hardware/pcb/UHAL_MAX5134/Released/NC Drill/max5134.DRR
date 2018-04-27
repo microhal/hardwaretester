@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: max5134.CMPcbDoc   23.04.2018  20:31:58
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : max5134.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          19               3.38 Inch (85.89 mm)
+T2        39.37mil (1mm)           Round          6                1.02 Inch (26.03 mm)
+T3        59.06mil (1.50012mm)     Round          2                0.40 Inch (10.03 mm)
+T4        66.93mil (1.70002mm)     Round          8                1.59 Inch (40.26 mm)
+---------------------------------------------------------------------------
+Totals                                            35               6.39 Inch (162.21 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

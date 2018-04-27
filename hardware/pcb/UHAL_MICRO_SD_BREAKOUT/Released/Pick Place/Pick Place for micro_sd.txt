@@ -1,0 +1,17 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C2         CAPC2013X140X50ML20T25       1760mil       4280mil       1760mil       4280mil   1795.433mil       4280mil  B        180.00 Kemet C0805C225K4RACAUTO
+C1         CAPC1608X90X35ML10T15       1775mil       4195mil       1775mil       4195mil   1746.457mil       4195mil  B        360.00 Murata GCM188R71H104KA57D
+J1         PCB-n61ghpg3sznbl2uw6fwj-1       1100mil       4325mil       1100mil       4325mil       1100mil       4725mil  T        270.00 MICROHAL STANDARD EDGE CONNECTOR
+J2         PCB-4vacospa3sytmw4kcnv2-1       1835mil       4200mil       1835mil       4200mil   1896.024mil   4326.181mil  T         90.00 Molex 504077-1891
+R1         PCB-4hicoez4nmrdgyuwelf4-1       1375mil       4285mil       1375mil       4285mil   1404.528mil       4285mil  T        180.00 Res1           
+R2         PCB-4hicoez4nmrdgyuwelf4-1       1375mil       4345mil       1375mil       4345mil   1404.528mil       4345mil  T        180.00 Res1           
+R3         PCB-4hicoez4nmrdgyuwelf4-1       1375mil       4405mil       1375mil       4405mil   1404.528mil       4405mil  T        180.00 Res1           
+R4         PCB-4hicoez4nmrdgyuwelf4-1       1375mil       4465mil       1375mil       4465mil   1404.528mil       4465mil  T        180.00 Res1           
+R5         PCB-4hicoez4nmrdgyuwelf4-1       1375mil       4525mil       1375mil       4525mil   1404.528mil       4525mil  T        180.00 Res1           
+R6         PCB-4hicoez4nmrdgyuwelf4-1       1375mil       4585mil       1375mil       4585mil   1404.528mil       4585mil  T        180.00 Res1           
+R7         RESC1609X50X30ML10T20       1375mil       4025mil       1375mil       4025mil   1401.575mil       4025mil  T        180.00 Vishay Dale CRCW060322R0JNEA
+R8         RESC1609X50X30ML10T20       1375mil       4145mil       1375mil       4145mil   1401.575mil       4145mil  T        180.00 Vishay Dale CRCW060322R0JNEA
+R9         RESC1609X50X30ML10T20       1375mil       4085mil       1375mil       4085mil   1401.575mil       4085mil  T        180.00 Vishay Dale CRCW060322R0JNEA
+R10        RESC1609X50X30ML10T20       1375mil       4205mil       1375mil       4205mil   1401.575mil       4205mil  T        180.00 Vishay Dale CRCW060322R0JNEA
+

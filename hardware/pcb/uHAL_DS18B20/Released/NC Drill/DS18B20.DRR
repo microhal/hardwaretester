@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: DS18B20.CMPcbDoc   23.04.2018  22:10:32
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : DS18B20-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15.75mil (0.40005mm)     Round          10               2.09 Inch (53.11 mm)
+T2        35.43mil (0.89992mm)     Round          3                0.10 Inch (2.54 mm)
+T3        39.37mil (1mm)           Round          3                0.30 Inch (7.62 mm)
+---------------------------------------------------------------------------
+Totals                                            16               2.49 Inch (63.27 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

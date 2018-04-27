@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: tester_breakout.CMPcbDoc   23.04.2018  21:44:37
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : tester_breakout.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          9                2.60 Inch (66.13 mm)
+T2        27.56mil (0.70002mm)     Round          64               6.02 Inch (152.82 mm)
+T3        32mil (0.8128mm)         Round          32               6.88 Inch (174.75 mm)
+T4        92.52mil (2.35001mm)     Round          2         NPTH   0.91 Inch (23.15 mm)
+---------------------------------------------------------------------------
+Totals                                            107              16.41 Inch (416.85 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

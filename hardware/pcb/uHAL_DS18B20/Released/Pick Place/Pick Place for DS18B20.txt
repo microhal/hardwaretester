@@ -1,0 +1,14 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C1         CAPC2013X140X50ML20T25        400mil        810mil        400mil        810mil        400mil    774.567mil  T         90.00 1u/10V         
+J1         PCB-vkgeqjtjqx6hhmcxuagx-1        600mil        765mil        500mil        765mil        500mil        765mil  T          0.00 SYM-52d299a8d8748d15-1
+J2         PCB-n61ghpg3sznbl2uw6fwj-1        100mil        450mil        100mil        450mil        100mil        850mil  T        270.00 MICROHAL STANDARD EDGE CONNECTOR
+Q1         ONSC-SOT-23-3-318-08        400mil        525mil        400mil        525mil    437.402mil     564.37mil  T        270.00 BSS84LT1G      
+Q2         ONSC-SOT-23-3-318-08_V        400mil        225mil        400mil        225mil    362.598mil     185.63mil  T         90.00 BSS138LT3G     
+Q3         ONSC-SOT-23-3-318-08_V        400mil        375mil        400mil        375mil    362.598mil     335.63mil  T         90.00 BSS138LT3G     
+R1         PCB-cmzy4aezi5zhn2bew7lt-1        275mil        450mil        275mil        450mil        275mil    423.425mil  T         90.00 100k           
+R2         PCB-cmzy4aezi5zhn2bew7lt-1        525mil        600mil        525mil        600mil        525mil    573.425mil  T         90.00 4k7            
+R3         PCB-cmzy4aezi5zhn2bew7lt-1        280mil        150mil        280mil        150mil        280mil    176.575mil  T        270.00 1k             
+U1         Q3+1                   700mil        550mil        700mil        550mil        700mil        500mil  T          0.00 DS18B20+PAR    
+R4         PCB-cmzy4aezi5zhn2bew7lt-1        400mil        625mil        400mil        625mil    426.575mil        625mil  T        180.00 100k           
+

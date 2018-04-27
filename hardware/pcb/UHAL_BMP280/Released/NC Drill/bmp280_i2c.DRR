@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: bmp280_i2c.CMPcbDoc   23.04.2018  21:50:47
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : bmp280_i2c.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          8                1.68 Inch (42.72 mm)
+---------------------------------------------------------------------------
+Totals                                            8                1.68 Inch (42.72 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

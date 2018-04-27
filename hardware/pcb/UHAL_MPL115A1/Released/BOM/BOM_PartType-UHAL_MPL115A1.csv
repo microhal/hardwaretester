@@ -1,0 +1,8 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity,Capacitance
+
+"Murata GCM188R71H104KA57D","CAP CER 0.1UF 50V 10% X7R 0603","C1","CAPC1608X90X35ML10T15","CMP-119667-3","1","100nF"
+"Murata GCM188R71H104KA57D","CAP CER 0.1UF 50V 10% X7R 0603","C2, C3","CAPC1608X90X35ML10T15","CMP-119667-3","2","1uF"
+"uHAL_connector_reduced","connector for uHAL with reduced pin number","J1","PCB-45ncoppm4oopozvqifsq-1","CMP-2q23h2cwhjlfm8s6r7i8-1","1",""
+"22R","RCA Series 0603 0.1 W 0 O Jumper Surface Mount Thick Film Chip Resistor","R1, R2, R3, R4","RESC1608X05N","CMP-31acf99032f6ee6b-1","4",""
+"0R","RCA Series 0603 0.1 W 0 O Jumper Surface Mount Thick Film Chip Resistor","R5, R6","RESC1608X05N","CMP-31acf99032f6ee6b-1","2",""
+"MPL115A1","Pressure Sensor 0V to 0.4V/0V to 0.6V 50kPa to 115kPa Absolute 8-Pin LGA Tray","U1","FRES-2015-02-A-8_V","CMP-2436ede32d3ffbf1-1","1",""

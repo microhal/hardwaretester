@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: mpl115a1.CMPcbDoc   23.04.2018  21:18:00
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : mpl115a1.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          7                0.75 Inch (19.17 mm)
+---------------------------------------------------------------------------
+Totals                                            7                0.75 Inch (19.17 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

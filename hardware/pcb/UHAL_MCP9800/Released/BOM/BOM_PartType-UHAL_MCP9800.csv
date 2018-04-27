@@ -1,0 +1,6 @@
+Capacitance,Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"100nF","Murata GCM188R71H104KA57D","CAP CER 0.1UF 50V 10% X7R 0603","C1","CAPC1608X90X35ML10T15","CMP-119667-3","1"
+"","uHAL_connector_reduced","connector for uHAL with reduced pin number","J1","PCB-45ncoppm4oopozvqifsq-1","CMP-2q23h2cwhjlfm8s6r7i8-1","1"
+"","CRCW06034K70FKEAHP","Surface Mount Chip Resistor, Thick Film, AEC-Q200 CRCW Series, 4.7 kohm, 250 mW, 1%, 75 V","R1, R2, R3","PCB-cmzy4aezi5zhn2bew7lt-1","CMP-40e08b60e91c9f27-1","3"
+"","MCP9800A0T-M/OT","2-Wire High-Accuracy Temperature Sensor, Slave Address 000, 5-Pin SOT-23, -55°C to +125°C Temperature, Tape and Reel","U1","SOT-23-OT5_L","CMP-984305-2","1"
